@@ -70,11 +70,3 @@ adaug produsul in cos, daca nu reusesc atunci astept. Daca comanda este
 "remove", incerc sa sterg produsul din cos, iar daca nu reusesc astept.
 La final, in cos raman doar produsele finale, apelez place_order si afisez
 produsele respective in fisierul de output.
-
-Resurse utilizate:
-https://ocw.cs.pub.ro/courses/asc/laboratoare/02
-https://ocw.cs.pub.ro/courses/asc/laboratoare/03
-Documentatia din enunt pt logger.
-
-Link github:
-https://github.com/Th3Venin/Marketplace
