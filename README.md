@@ -1,10 +1,6 @@
 # ASC-Marketplace
 
 Implementare:
-Am implementat tot ce era necesar pentru a obtine maxim pe checker + logging + github.
-(fara unit testing)
-Codul l-am implementat cat de eficient si cat de scurt am putut. Da, tema este utila,
-foarte interesanta. Enuntul putin neclar, mai ales informatiile legate de input.
 
 marketplace.py:
 
